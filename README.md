@@ -63,11 +63,11 @@ Mengintegrasikan prinsip rekayasa perangkat lunak yang ketat dengan stack pengem
   <br /><br />
 </div>
 
-### Kompetensi Inti
-- **PHP Berperforma Tinggi:** Fiber, arsitektur non-blocking/asinkron.
-- **Implementasi Clean Architecture:** DTO, Repository Pattern.
-- **Edge Computing & Penyebaran Global:** Cloudflare Workers.
-- **Integrasi Agen AI:** RAG, Vector Embeddings.
+### Fokus Pembelajaran & Minat Riset
+- **Eksplorasi Performa PHP:** Mempelajari implementasi Fiber untuk pendekatan arsitektur non-blocking/asinkron secara native.
+- **Penerapan Pola Desain:** Implementasi Clean Architecture skala kecil menggunakan pendekatan DTO dan Repository Pattern pada proyek personal.
+- **Pengembangan di Lingkungan Edge:** Eksperimen distribusi aplikasi melalui Cloudflare Workers dan SSR Nuxt.js.
+- **Eksperimen Agen AI:** Implementasi dasar API komersial dan open-source (Gemini, Qwen, Groq, DeepSeek) untuk studi kasus RAG sederhana.
 
 ---
 
