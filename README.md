@@ -71,6 +71,18 @@ Mengintegrasikan prinsip rekayasa perangkat lunak yang ketat dengan stack pengem
 
 ---
 
+## Statistik & Aktivitas Kontribusi
+
+<div align="center">
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=ulyafarhan&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" alt="Statistik GitHub Ulya Farhan" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulyafarhan&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8" alt="Bahasa Pemrograman Terbanyak" width="48%" />
+  <br /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ulyafarhan&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8&sideChars_color=38bdf8" alt="Metrik Konsistensi Kontribusi" width="100%" />
+</div>
+
+---
+
 ## Riset Khusus & Publikasi Ilmiah
 
 Menghubungkan teori akademik dengan implementasi praktis melalui riset rekayasa perangkat lunak yang ketat.
