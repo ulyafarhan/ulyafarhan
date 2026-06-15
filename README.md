@@ -1,12 +1,12 @@
 # Muhammad Ulya Farhan
 
-Informatics Engineering Student | High-Performance Backend Architect | Technology & Community Service Integrator
+Mahasiswa Teknik Informatika | Arsitek Backend Berperforma Tinggi | Integrator Teknologi & Pengabdian Masyarakat
 
 ---
 
-## Technical Focus & Ecosystem
+## Fokus Teknis & Ekosistem Teknologi
 
-Integrating rigorous engineering principles with modern development stacks to build scalable, high-performance digital architectures. Currently specialized in low-level PHP optimization, edge computing, and AI-assisted solutions.
+Mengintegrasikan prinsip rekayasa perangkat lunak yang ketat dengan stack pengembangan modern untuk membangun arsitektur digital yang skalabel dan berperforma tinggi. Saat ini terspesialisasi dalam optimasi PHP low-level, edge computing, dan solusi berbasis AI.
 
 <p align="left">
   <a href="https://php.net" target="_blank" rel="noreferrer">
@@ -35,39 +35,39 @@ Integrating rigorous engineering principles with modern development stacks to bu
   </a>
 </p>
 
-- **Core Capabilities:**
-  - High-Performance PHP (Fiber, non-blocking/asynchronous architectures).
-  - Clean Architecture implementation (DTO, Repository Pattern).
-  - Edge Computing & Global Deployment (Cloudflare Workers).
-  - AI Agent Integration (RAG, Vector Embeddings).
+- **Kompetensi Inti:**
+  - PHP Berperforma Tinggi (Fiber, arsitektur non-blocking/asinkron).
+  - Implementasi Clean Architecture (DTO, Repository Pattern).
+  - Edge Computing & Penyebaran Global (Cloudflare Workers).
+  - Integrasi Agen AI (RAG, Vector Embeddings).
 
 ---
 
-## Specialized Research & Publications
+## Riset Khusus & Publikasi Ilmiah
 
-Bridging academic theory with practical implementation through rigorous software engineering research.
+Menghubungkan teori akademik dengan implementasi praktis melalui riset rekayasa perangkat lunak yang ketat.
 
-### Featured Scholarly Articles
+### Artikel Ilmiah Unggulan
 
-- **Data Hiding & Encryption:** *Teknik Penyembunyian Data Non-Destruktif pada Citra Digital Menggunakan Metode End-of-File (EOF) dan Enkripsi AES-256*. Published in JIKUM: Jurnal Ilmu Komputer (2026). DOI: [10.62671/jikum.v2i1.172](https://doi.org/10.62671/jikum.v2i1.172).
-- **Cybersecurity Audit:** *Audit Kerentanan Infrastruktur Siber Dan Korelasinya Terhadap Eskalasi Ketidakpercayaan Publik: Studi Kasus Layanan Digital Pemerintah Indonesia*. Published in JIKUM: Jurnal Ilmu Komputer (2026). DOI: [10.62671/jikum.v2i1.162](https://doi.org/10.62671/jikum.v2i1.162).
-
----
-
-## Community & Social Impact Projects
-
-Leveraging full-stack engineering expertise to enhance public service efficiency and community development.
-
-### Active Initiatives
-
-- **Desaku (Digital Gampong Platform):** Developing a modern, integrated digital solution for public services and administration in Gampong Udeung, Pidie Jaya. Focus on administrative efficiency, automatic document generation, and public transparency.
-- **Organization:** Active member of UKM PTQ UNIMAL, responsible for strategic planning, activity documentation, and technological integration.
+- **Penyembunyian Data & Enkripsi:** *Teknik Penyembunyian Data Non-Destruktif pada Citra Digital Menggunakan Metode End-of-File (EOF) dan Enkripsi AES-256*. Diterbitkan di JIKUM: Jurnal Ilmu Komputer (2026). DOI: [10.62671/jikum.v2i1.172](https://doi.org/10.62671/jikum.v2i1.172).
+- **Audit Keamanan Siber:** *Audit Kerentanan Infrastruktur Siber Dan Korelasinya Terhadap Eskalasi Ketidakpercayaan Publik: Studi Kasus Layanan Digital Pemerintah Indonesia*. Diterbitkan di JIKUM: Jurnal Ilmu Komputer (2026). DOI: [10.62671/jikum.v2i1.162](https://doi.org/10.62671/jikum.v2i1.162).
 
 ---
 
-## Professional Connectivity
+## Proyek Pengabdian Masyarakat & Dampak Sosial
 
-Formal technical portfolio and social verification.
+Memanfaatkan keahlian rekayasa full-stack untuk meningkatkan efisiensi layanan publik dan pengembangan masyarakat.
+
+### Inisiatif Aktif
+
+- **Desaku (Platform Digital Gampong):** Mengembangkan solusi digital modern dan terintegrasi untuk layanan publik dan administrasi di Gampong Udeung, Pidie Jaya. Fokus pada efisiensi administratif, pembuatan dokumen otomatis, dan transparansi publik.
+- **Organisasi:** Anggota aktif UKM PTQ UNIMAL, bertanggung jawab atas perencanaan strategis, dokumentasi kegiatan, dan integrasi teknologi.
+
+---
+
+## Konektivitas Profesional
+
+Portofolio teknis formal dan verifikasi sosial.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammad-ulya-farhan-365323314/" target="_blank">
@@ -81,4 +81,4 @@ Formal technical portfolio and social verification.
   </a>
 </p>
 
-*Formal inquiries regarding architecture consultation or performance engineering are welcomed via professional channels.*
+*Pertanyaan formal terkait konsultasi arsitektur atau rekayasa performa disambut baik melalui saluran profesional.*
