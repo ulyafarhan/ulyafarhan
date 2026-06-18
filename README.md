@@ -7,7 +7,7 @@
 
 ## Fokus Teknis & Ekosistem Teknologi
 
-Mengintegrasikan prinsip rekayasa perangkat lunak yang ketat dengan stack pengembangan modern untuk membangun arsitektur digital yang skalabel dan berperforma tinggi. Saat ini terspesialisasi dalam optimasi PHP low-level, edge computing, dan solusi berbasis AI.
+Mengintegrasikan prinsip rekayasa perangkat lunak dengan stack pengembangan modern untuk membangun arsitektur digital yang skalabel dan berperforma tinggi. Saat ini aktif melakukan eksplorasi mandiri dan riset akademik seputar optimalisasi PHP, layanan edge, serta pemanfaatan model kecerdasan buatan.
 
 <div align="center">
   <br />
@@ -79,6 +79,12 @@ Mengintegrasikan prinsip rekayasa perangkat lunak yang ketat dengan stack pengem
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulyafarhan&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8" alt="Bahasa Pemrograman Terbanyak" width="48%" />
   <br /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ulyafarhan&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8&sideChars_color=38bdf8" alt="Metrik Konsistensi Kontribusi" width="100%" />
+  <br /><br />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ulyafarhan&theme=dracula&bg_color=0d1117&hide_border=true&line=38bdf8&point=ffffff&area=true" alt="Activity Graph Neon" width="100%" />
+  <br /><br />
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=100&section=footer" alt="Animasi Gelombang" width="100%" />
 </div>
 
 ---
@@ -87,37 +93,57 @@ Mengintegrasikan prinsip rekayasa perangkat lunak yang ketat dengan stack pengem
 
 Menghubungkan teori akademik dengan implementasi praktis melalui riset rekayasa perangkat lunak yang ketat.
 
-### Artikel Ilmiah Unggulan
+### Artikel Ilmiah
 
 - **Penyembunyian Data & Enkripsi:** <br/> *Teknik Penyembunyian Data Non-Destruktif pada Citra Digital Menggunakan Metode End-of-File (EOF) dan Enkripsi AES-256*. Diterbitkan di JIKUM: Jurnal Ilmu Komputer (2026). <br/> DOI: [10.62671/jikum.v2i1.172](https://doi.org/10.62671/jikum.v2i1.172)
 - **Audit Keamanan Siber:** <br/> *Audit Kerentanan Infrastruktur Siber Dan Korelasinya Terhadap Eskalasi Ketidakpercayaan Publik: Studi Kasus Layanan Digital Pemerintah Indonesia*. Diterbitkan di JIKUM: Jurnal Ilmu Komputer (2026). <br/> DOI: [10.62671/jikum.v2i1.162](https://doi.org/10.62671/jikum.v2i1.162)
 
 ---
 
-## Proyek Pengabdian Masyarakat & Dampak Sosial
+## Proyek Rekayasa & Dampak Sosial
 
-Memanfaatkan keahlian rekayasa full-stack untuk meningkatkan efisiensi layanan publik dan pengembangan masyarakat.
+Fokus merancang solusi digital berbasis platform untuk menyederhanakan birokrasi, mengotomatisasi pengelolaan data, dan meningkatkan efisiensi operasional pada berbagai sektor masyarakat.
 
-### Inisiatif Aktif
+### Inisiatif & Proyek Unggulan
 
-- **Desaku (Platform Digital Gampong):** Mengembangkan solusi digital modern dan terintegrasi untuk layanan publik dan administrasi di Gampong Udeung, Pidie Jaya. Fokus pada efisiensi administratif, pembuatan dokumen otomatis, dan transparansi publik.
+- **Desaku (Platform Digital Pelayanan Mandiri):** Merancang sistem informasi administrasi gampong terintegrasi untuk mendigitalisasi layanan kependudukan. Sistem ini memfasilitasi warga dalam melakukan pengajuan permohonan secara mandiri, melacak status proses secara *realtime*, serta mengotomatisasi penyerahan dokumen resmi secara digital guna memangkas antrean birokrasi fisik.
+- **Sistem Informasi Akademik & Portal Pesantren:** Mengembangkan dasbor terpadu untuk pengelolaan profil lembaga, manajemen data santri, serta sistem publikasi informasi berkala guna mendukung program digitalisasi institusi pendidikan dan transparansi informasi akademik kepada publik.
+- **PTQ Portal (Website Profil Organisasi):** Membangun platform informasi publik dan pusat dokumentasi kegiatan ukm untuk memperkuat keterbukaan informasi serta manajemen internal organisasi.
+
+### Aktivitas Organisasi
+
 - **Organisasi:** Anggota UKM PTQ UNIMAL, berpartisipasi aktif dalam ruang lingkup kegiatan umum organisasi.
 
 ---
 
-## Konektivitas Profesional
+## Konektivitas & Jaringan Sosial
 
-Portofolio teknis formal dan verifikasi sosial. *Pertanyaan formal terkait konsultasi arsitektur atau rekayasa performa disambut baik melalui saluran profesional di bawah ini:*
+### Saluran Profesional
+*Pertanyaan formal terkait kemitraan, konsultasi arsitektur backend, atau rekayasa performa disambut baik melalui saluran di bawah ini:*
 
 <div align="center">
-  <br />
   <a href="https://www.linkedin.com/in/muhammad-ulya-farhan-365323314/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="42" height="42"/>
+  </a>
+  <a href="https://t.me/farhanulya" target="_blank">
+    <img src="https://raw.githubusercontent.com/ulyafarhan/ulyafarhan/main/telegram-logo.svg" alt="Telegram" width="42" height="42"/>
   </a>
   <a href="https://ulyafarhan.web.id" target="_blank">
-    <img src="https://raw.githubusercontent.com/ulyafarhan/ulyafarhan/main/muf-logo.svg" alt="Website MUF" width="48" height="48"/>
+    <img src="https://raw.githubusercontent.com/ulyafarhan/ulyafarhan/main/muf-logo.svg" alt="Website Portofolio" width="42" height="42"/>
   </a>
+</div>
+
+### Ruang Kasual & Interaksi
+*Untuk interaksi santai, diskusi non-teknis, serta aktivitas harian di luar ekosistem pengembangan:*
+
+<div align="center">
   <a href="https://www.instagram.com/ulya_frhn" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="48" height="48"/>
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="42" height="42"/>
+  </a>
+  <a href="https://www.tiktok.com/@thelazy134" target="_blank">
+    <img src="https://raw.githubusercontent.com/ulyafarhan/ulyafarhan/main/tiktok-logo.svg" alt="TikTok" width="42" height="42"/>
+  </a>
+  <a href="https://www.threads.net/@ulya_frhn" target="_blank">
+    <img src="https://raw.githubusercontent.com/ulyafarhan/ulyafarhan/main/threads-logo.svg" alt="Threads" width="42" height="42"/>
   </a>
 </div>
