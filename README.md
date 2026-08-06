@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Muhammad Ulya Farhan</h1>
-  <p><b>Mahasiswa Teknik Informatika | Arsitek Backend Berperforma Tinggi | Integrator Teknologi & Pengabdian Masyarakat</b></p>
+  <p><b>Mahasiswa Teknik Informatika | Arsitek Backend | Integrator Teknologi & Pengabdian Masyarakat</b></p>
 </div>
 
 ---
@@ -67,7 +67,7 @@ Mengintegrasikan prinsip rekayasa perangkat lunak dengan stack pengembangan mode
 - **Eksplorasi Performa PHP:** Mempelajari implementasi Fiber untuk pendekatan arsitektur non-blocking/asinkron secara native.
 - **Penerapan Pola Desain:** Implementasi Clean Architecture skala kecil menggunakan pendekatan DTO dan Repository Pattern pada proyek personal.
 - **Pengembangan di Lingkungan Edge:** Eksperimen distribusi aplikasi melalui Cloudflare Workers dan SSR Nuxt.js.
-- **Eksperimen Agen AI:** Implementasi dasar API komersial dan open-source (Gemini, Qwen, Groq, DeepSeek) untuk studi kasus RAG sederhana.
+- **Eksperimen Agen AI:** Implementasi dasar API komersial dan open-source (Gemini, Qwen, Groq, DeepSeek) untuk studi kasus RAG.
 
 ---
 
@@ -91,7 +91,7 @@ Mengintegrasikan prinsip rekayasa perangkat lunak dengan stack pengembangan mode
 
 ## Riset Khusus & Publikasi Ilmiah
 
-Menghubungkan teori akademik dengan implementasi praktis melalui riset rekayasa perangkat lunak yang ketat.
+Menghubungkan teori akademik dengan implementasi praktis melalui riset rekayasa perangkat lunak.
 
 ### Artikel Ilmiah
 
@@ -104,7 +104,7 @@ Menghubungkan teori akademik dengan implementasi praktis melalui riset rekayasa 
 
 Fokus merancang solusi digital berbasis platform untuk menyederhanakan birokrasi, mengotomatisasi pengelolaan data, dan meningkatkan efisiensi operasional pada berbagai sektor masyarakat.
 
-### Inisiatif & Proyek Unggulan
+### Inisiatif & Proyek 
 
 - **Desaku (Platform Digital Pelayanan Mandiri):** Merancang sistem informasi administrasi gampong terintegrasi untuk mendigitalisasi layanan kependudukan. Sistem ini memfasilitasi warga dalam melakukan pengajuan permohonan secara mandiri, melacak status proses secara *realtime*, serta mengotomatisasi penyerahan dokumen resmi secara digital guna memangkas antrean birokrasi fisik.
 - **Sistem Informasi Akademik & Portal Pesantren:** Mengembangkan dasbor terpadu untuk pengelolaan profil lembaga, manajemen data santri, serta sistem publikasi informasi berkala guna mendukung program digitalisasi institusi pendidikan dan transparansi informasi akademik kepada publik.
@@ -119,7 +119,7 @@ Fokus merancang solusi digital berbasis platform untuk menyederhanakan birokrasi
 ## Konektivitas & Jaringan Sosial
 
 ### Saluran Profesional
-*Pertanyaan formal terkait kemitraan, konsultasi arsitektur backend, atau rekayasa performa disambut baik melalui saluran di bawah ini:*
+*Pertanyaan formal terkait kemitraan, konsultasi arsitektur backend, atau rekayasa sistem disambut baik melalui saluran di bawah ini:*
 
 <div align="center">
   <a href="https://www.linkedin.com/in/muhammad-ulya-farhan-365323314/" target="_blank">
