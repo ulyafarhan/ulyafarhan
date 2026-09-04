@@ -97,7 +97,7 @@ Menghubungkan teori akademik dengan implementasi praktis melalui riset rekayasa 
 
 - **Penyembunyian Data & Enkripsi:** <br/> *Teknik Penyembunyian Data Non-Destruktif pada Citra Digital Menggunakan Metode End-of-File (EOF) dan Enkripsi AES-256*. Diterbitkan di JIKUM: Jurnal Ilmu Komputer (2026). <br/> DOI: [10.62671/jikum.v2i1.172](https://doi.org/10.62671/jikum.v2i1.172)
 - **Audit Keamanan Siber:** <br/> *Audit Kerentanan Infrastruktur Siber Dan Korelasinya Terhadap Eskalasi Ketidakpercayaan Publik: Studi Kasus Layanan Digital Pemerintah Indonesia*. Diterbitkan di JIKUM: Jurnal Ilmu Komputer (2026). <br/> DOI: [10.62671/jikum.v2i1.162](https://doi.org/10.62671/jikum.v2i1.162)
-
+- **Manajemen Basis Data:** <br/> *Implementasi Konsep Fungsi dalam Perancangan Basis Data Sederhana pada Sistem Informasi Akademik*. Diterbitkan di JIKUM: Jurnal Ilmu Komputer (2026). <br/> DOI: [10.62671/jikum.v2i2.318]([https://doi.org/10.62671/jikum.v2i2.318]).
 ---
 
 ## Proyek Rekayasa & Dampak Sosial
