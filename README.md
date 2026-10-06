@@ -1,13 +1,13 @@
 <div align="center">
   <h1>Muhammad Ulya Farhan</h1>
-  <p><b>Mahasiswa Teknik Informatika | Arsitek Backend | Integrator Teknologi & Pengabdian Masyarakat</b></p>
+  <p><b>Mahasiswa Teknik Informatika | Full-Stack Developer | Integrator Teknologi & Pengabdian Masyarakat</b></p>
 </div>
 
 ---
 
 ## Fokus Teknis & Ekosistem Teknologi
 
-Mengintegrasikan prinsip rekayasa perangkat lunak dengan stack pengembangan modern untuk membangun arsitektur digital yang skalabel dan berperforma tinggi. Saat ini aktif melakukan eksplorasi mandiri dan riset akademik seputar optimalisasi PHP, layanan edge, serta pemanfaatan model kecerdasan buatan.
+Mempelajari dan menerapkan prinsip rekayasa perangkat lunak dengan stack pengembangan modern. Saat ini fokus pada eksplorasi performa PHP, arsitektur backend, dan integrasi AI.
 
 <div align="center">
   <br />
@@ -91,7 +91,7 @@ Mengintegrasikan prinsip rekayasa perangkat lunak dengan stack pengembangan mode
 
 ## Riset Khusus & Publikasi Ilmiah
 
-Menghubungkan teori akademik dengan implementasi praktis melalui riset rekayasa perangkat lunak.
+Publikasi ilmiah di JIKUM: Jurnal Ilmu Komputer (2026).
 
 ### Artikel Ilmiah
 
@@ -102,11 +102,11 @@ Menghubungkan teori akademik dengan implementasi praktis melalui riset rekayasa 
 
 ## Proyek Rekayasa & Dampak Sosial
 
-Fokus merancang solusi digital berbasis platform untuk menyederhanakan birokrasi, mengotomatisasi pengelolaan data, dan meningkatkan efisiensi operasional pada berbagai sektor masyarakat.
+Membangun solusi digital untuk digitalisasi layanan administrasi desa dan institusi pendidikan. Berkomitmen untuk mengembangkan solusi serupa di berbagai sektor masyarakat sesuai kapasitas dan kesempatan.
 
 ### Inisiatif & Proyek 
 
-- **Desaku (Platform Digital Pelayanan Mandiri):** Merancang sistem informasi administrasi gampong terintegrasi untuk mendigitalisasi layanan kependudukan. Sistem ini memfasilitasi warga dalam melakukan pengajuan permohonan secara mandiri, melacak status proses secara *realtime*, serta mengotomatisasi penyerahan dokumen resmi secara digital guna memangkas antrean birokrasi fisik.
+- **Desaku (Platform Digital Pelayanan Mandiri):** Mengembangkan sistem informasi administrasi gampong untuk digitalisasi layanan kependudukan. Fitur: pengajuan permohonan digital, pelacakan status, dan manajemen dokumen.
 - **Sistem Informasi Akademik & Portal Pesantren:** Mengembangkan dasbor terpadu untuk pengelolaan profil lembaga, manajemen data santri, serta sistem publikasi informasi berkala guna mendukung program digitalisasi institusi pendidikan dan transparansi informasi akademik kepada publik.
 - **PTQ Portal (Website Profil Organisasi):** Membangun platform informasi publik dan pusat dokumentasi kegiatan ukm untuk memperkuat keterbukaan informasi serta manajemen internal organisasi.
 
@@ -119,7 +119,7 @@ Fokus merancang solusi digital berbasis platform untuk menyederhanakan birokrasi
 ## Konektivitas & Jaringan Sosial
 
 ### Saluran Profesional
-*Pertanyaan formal terkait kemitraan, konsultasi arsitektur backend, atau rekayasa sistem disambut baik melalui saluran di bawah ini:*
+*Kolaborasi, diskusi teknis, atau pertanyaan seputar proyek open-source dapat disalurkan melalui:*
 
 <div align="center">
   <a href="https://www.linkedin.com/in/muhammad-ulya-farhan-365323314/" target="_blank">
